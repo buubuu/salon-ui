@@ -1,0 +1,40 @@
+@media (max-width:768px) {  /*  portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+	#content-wrapper{
+		display: block;
+	}
+	#main-navigation li a{
+		font-size: 1.23em
+	}
+	#formmessage{
+		margin-left: 0;
+	}
+	.form-inline{
+		display: flex;
+	}
+
+	#contact-deets{
+		display: flex;
+	}
+	.social-list {
+		display: none;
+	}
+}
+@media (max-width:641px) {  /*  portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+	.hideanchor{
+			display: block;
+			color: rgba(0,0,0,.8);
+	}
+	#formmessage{
+		margin-left: 0;
+	}
+	.form-inline{
+		display: flex;
+	}
+}
+@media (max-width:568px) {
+	#cforms #formmessage #clearbtn{
+		padding: 5px 0;
+		margin-top: 37px;
+		width: 40%;
+	}
+}
