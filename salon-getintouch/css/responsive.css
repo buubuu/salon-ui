@@ -37,4 +37,7 @@
 		margin-top: 37px;
 		width: 40%;
 	}
+	#cforms #formmessage #submitbtn{
+		width: 60%;
+	}
 }
