@@ -7,9 +7,6 @@ Loved this webpage mockup design made by [David Tj Powell](https://dribbble.com/
 
 Here is a screenshot
 
-![Contact page](https://github.com/buubuu/salon-ui/blob/gh-pages/images/screenshot.png)
-
-
 Check it out here https://buubuu.github.io/salon-ui/ 
 
 Let me know what you think ;)
